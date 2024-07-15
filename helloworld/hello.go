@@ -3,8 +3,8 @@ package helloworld
 const (
 	// languages
 	spanish = "Spanish"
-	english = "English"
 	french  = "French"
+	english = "English"
 
 	// prefixes
 	englishHelloPrefix = "Hello, "
