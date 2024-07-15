@@ -1,8 +1,6 @@
 package helloworld
 
-import (
-	"testing"
-)
+import "testing"
 
 func TestHello(t *testing.T) {
 	t.Run("Hello w/o name", func(t *testing.T) {
